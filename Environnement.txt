@@ -1,0 +1,10 @@
+
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.googlemail.com
+MAIL_PORT=465
+MAIL_USERNAME=abdelillahfixer123@gmail.com
+MAIL_PASSWORD=butckkkgzjiezabp
+MAIL_ENCRYPTION=ssl
+MAIL_FROM_ADDRESS="abdelillahfixer123@gmail.com"
+MAIL_FROM_NAME="${APP_NAME}"
+//mod_security//
